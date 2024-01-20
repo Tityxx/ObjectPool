@@ -1,15 +1,12 @@
 {
   "name": "com.tityx.object-pool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Object Pool",
-  "description": "Simple object pool based on scriptable object",
+  "description": "Simple object pool based on scriptable object\n\nDependencies:\r\nhttps://github.com/starikcetin/Extenject.git#9.1.0",
   "unity": "2019.1",
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
-  "dependencies": {
-    "com.svermeulen.extenject": "9.1.0"
-  },
   "author": {
     "name": "Tityx",
     "email": "syhodyb99@gmail.com",
