@@ -1,0 +1,25 @@
+{
+  "name": "com.tityx.object-pool",
+  "version": "1.0.0",
+  "displayName": "Object Pool",
+  "description": "Simple object pool based on scriptable object",
+  "unity": "2019.1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.svermeulen.extenject": "9.1.0"
+  },
+  "author": {
+    "name": "Tityx",
+    "email": "syhodyb99@gmail.com",
+    "url": "https://github.com/Tityxx"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Demo for object pool",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
