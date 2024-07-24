@@ -7,7 +7,7 @@ namespace Tityx.ObjectPool
     /// <summary>
     /// Данные объекта для пула
     /// </summary>
-    [CreateAssetMenu(menuName = "ToolsAndMechanics/Object Pool/Poolable Object Data", fileName = "New ObjectData")]
+    [CreateAssetMenu(menuName = "Tityx/Object Pool/Poolable Object Data", fileName = "New ObjectData")]
     public class PoolableObjectData : ScriptableObject
     {
         public GameObject Prefab => _prefab;

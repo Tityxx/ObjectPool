@@ -5,7 +5,7 @@ using Zenject;
 
 namespace Tityx.ObjectPool
 {
-    [CreateAssetMenu(menuName = "ToolsAndMechanics/Object Pool/Installer")]
+    [CreateAssetMenu(menuName = "Tityx/Object Pool/Installer")]
     public class ObjectPoolInstaller : ScriptableObjectInstaller
     {
         public override void InstallBindings()
